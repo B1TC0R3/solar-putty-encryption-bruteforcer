@@ -2,7 +2,7 @@
 
 Inspired by: https://github.com/VoidSec/SolarPuttyDecrypt
 
-This tool is able to brute force the password for encrypted Solar-PuTTY session files.
+This tool is able to brute force the password for encrypted Solar-PuTTY session backups.
 
 ## Usage
 
