@@ -1,4 +1,4 @@
-# Solar-PuTTY Encroption Bruteforcer
+# Solar-PuTTY Encryption Bruteforcer
 
 Inspired by: https://github.com/VoidSec/SolarPuttyDecrypt
 
